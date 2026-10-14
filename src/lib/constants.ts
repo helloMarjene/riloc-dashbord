@@ -6,7 +6,7 @@ export const WEBSITE_STATUS = 'Active';
 export const DEFAULT_SOURCE_PATH = 'C:\\Users\\ADMIN\\Desktop\\RILOC-SUMMARY\\RILOCS-MAIN';
 
 export const DEFAULT_ADMIN: AdminProfile = {
-  name: 'ARSENE KAHUNGA',
+  name: 'WISDOM KARUNGO',
   email: 'karungo@gmail.com',
   role: 'Administrator',
   hasCustomAvatar: false,
